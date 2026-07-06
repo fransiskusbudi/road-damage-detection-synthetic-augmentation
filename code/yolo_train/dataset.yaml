@@ -1,0 +1,8 @@
+path: /disk/scratch_big/USER/mlpractical_rdd/diffusion_gan/baseline_17Mar/
+train: train/images/
+val: val/images/
+test: test/images/
+
+nc: 1  # Number of classes
+names:
+  0: D40

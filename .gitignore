@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Large duplicate archive (kept locally, not tracked)
+code.zip
+
+# Group report — kept local, not published
+finalReport-G014.pdf
+
+# Weights / datasets / generated outputs
+*.pth
+*.pt
+*.ckpt
+weights/
+outputs/
+runs/
